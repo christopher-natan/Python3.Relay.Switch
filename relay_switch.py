@@ -10,7 +10,6 @@ import RPi.GPIO as GPIO
 
 
 GPIO_PIN = 14
-TIME_OUT = 150000
 
 
 class RelaySwitch:
