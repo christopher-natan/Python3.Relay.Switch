@@ -1,5 +1,6 @@
 # Relay.Switch
-Python code for controlling relay module
+Python code for controlling relay module.
+One of my Python dependency source code on project called EasyLoad
 
 #### How to
  Include relay.switch to your script by importing
