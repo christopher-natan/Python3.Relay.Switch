@@ -1,6 +1,5 @@
 # Relay.Switch
-Python code for controlling relay module.
-One of my Python dependency source code on project called EasyLoad
+Python code for controlling relay module. Dependency python class of my vending machine project
 
 #### How to
  Include relay.switch to your script by importing
@@ -26,3 +25,6 @@ One of my Python dependency source code on project called EasyLoad
 
     relay_switch.turn("off")
    ```
+
+### Project Link:
+http://www.cmnworks.com/vending-machine.html
