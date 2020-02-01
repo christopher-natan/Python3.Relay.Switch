@@ -28,3 +28,6 @@ Python code for controlling relay module. Dependency python class of my vending 
 
 ### Project Link:
 http://www.cmnworks.com/vending-machine.html
+
+### Fabrication Video:
+https://vimeo.com/388675372
